@@ -1,5 +1,6 @@
 # BLOG APP
-A app which is used to store a list of blogs. The fields include Title,author,url and likes
+##  :scroll: ABOUT
+A app which is used to store a list of blogs. The fields include Title,author,url and likes(sorted by it)
 
 The application can be found on [Render](https://blog-app-huex.onrender.com/)
 
@@ -24,3 +25,7 @@ The application can be found on [Render](https://blog-app-huex.onrender.com/)
 > - PORT : 3001
 > - SECRET (secret key for encryption and token validation)
 > - TEST_MONGODB_URI (contains url of MongoDB database for testing)
+
+
+This project is part of [several projects](https://github.com/Saurav-K-yadav/FullStackOpen) I made while learning Full Stack. The original repo of this project is [here](https://github.com/Saurav-K-yadav/FullStackOpen/tree/main/part4)
+### :innocent: Made By: Saurav Kumar Yadav @github.com/Saurav-K-yadav
