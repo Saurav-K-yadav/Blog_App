@@ -13,6 +13,7 @@ The application can be found on [Render](https://blog-app-huex.onrender.com/)
   + jwt (token validations)
   + jest (unit testing)
   + cypress (end to end testing)
+  + Redux
 
 ## :wrench: SETUP
 - clone the project
